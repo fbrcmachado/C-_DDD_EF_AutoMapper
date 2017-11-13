@@ -1,0 +1,92 @@
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.Net4.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll.config
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.pdb
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebActivatorEx.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.pdb
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.pdb
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.pdb
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.Net4.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll.config
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.pdb
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebActivatorEx.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.pdb
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb

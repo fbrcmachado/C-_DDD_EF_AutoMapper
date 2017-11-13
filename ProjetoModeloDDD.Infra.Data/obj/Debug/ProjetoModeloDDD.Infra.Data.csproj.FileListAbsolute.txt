@@ -1,0 +1,24 @@
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+c:\users\fabriciomachado\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Fabricio\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
